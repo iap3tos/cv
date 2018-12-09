@@ -1,0 +1,50 @@
+body {
+  background-color: #fefcdb;
+  font-family: sans-serif;
+}
+
+a {
+  color: #f05a28;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #f05a28;
+}
+
+a:hover {
+  color: #f7931e;
+}
+
+h1 {
+  font-size: 2em;
+  color: #f05a28;
+}
+
+h2 {
+  font-size: 1.7em;
+  color: #f7931e;
+}
+
+h3 {
+  font-size: 1.4em;
+  color: #f7931e;
+}
+
+p {
+  color: DarkSlateGrey;
+}
+
+ul {
+  color: DarkSlateGrey;
+}
+table {
+  color: DarkSlateGrey;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #f7931e;
+  border-width: thick;
+  width: 3em;
+}
